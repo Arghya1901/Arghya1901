@@ -10,7 +10,7 @@
 <br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghya1901&label=Profile%20views&color=0e75b6&style=flat" alt="arghya1901" /> </p>
 
-- 🔭 I’m currently working on **ML Projects based on real world problem**
+- 🔭 I’m currently working on **ML Projects based on real world problems**
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
